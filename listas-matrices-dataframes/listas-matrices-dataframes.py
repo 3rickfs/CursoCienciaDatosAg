@@ -13,6 +13,7 @@ Created on Mon Dec 27 12:52:06 2021
 import numpy as np
 import pandas as pd
 
+print("Ejercicios de listas, matrices y dataframes")
 
 #Listas
 a = ["Hola", "mundo"]
