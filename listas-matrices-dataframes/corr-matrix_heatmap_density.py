@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Plotting a correlation matrix
+Plotting a correlation matrix with heatmap and density
 
 Created on Tue Dec 28 13:23:33 2021
 
-@author: Seaborn
+@author: Erick F.
 """
 import pandas as pd
 import matplotlib.pyplot as plt
